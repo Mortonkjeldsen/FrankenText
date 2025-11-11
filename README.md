@@ -1,4 +1,4 @@
-# C template
+# FrankenText
 
 For VSCode-based editors and Clang. Requires CodeLLDB extension. clangd extension is recommended.
 
